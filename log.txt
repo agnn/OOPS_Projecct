@@ -1,0 +1,55 @@
+[2022-07-10 14:00:16,008 - INFO - "Module" logging_class] : info
+[2022-07-10 14:04:49,236 - INFO - "Module" logging_class] : info
+[2022-07-10 14:07:20,722 - INFO - "Module" logging_class] : info
+[2022-07-10 14:07:23,881 - INFO - "Module" logging_class] : info
+[2022-07-10 14:07:23,897 - INFO - "Module" student_record] : Student survey: 
+[2022-07-10 14:07:33,694 - INFO - "Module" student] : Constructor called
+[2022-07-10 14:07:33,694 - INFO - "Module" student] : Constructor call success
+[2022-07-10 14:07:33,694 - INFO - "Module" student] : Function called
+[2022-07-10 14:07:33,883 - INFO - "Module" student] : name : 
+[2022-07-10 14:07:34,039 - INFO - "Module" student] : Date of birth : 
+[2022-07-10 14:07:34,227 - INFO - "Module" student] : Gender : 
+[2022-07-10 14:07:34,227 - INFO - "Module" communcation] : function called
+[2022-07-10 14:07:34,524 - INFO - "Module" communcation] : contact number :  
+[2022-07-10 14:07:34,524 - INFO - "Module" communcation] : email id : 
+[2022-07-10 14:07:34,524 - INFO - "Module" course] : Function called
+[2022-07-10 14:07:34,961 - INFO - "Module" course] : Courses enrolled :  []
+[2022-07-10 14:07:35,679 - INFO - "Module" internship] : Internship enrolled :  []
+[2022-07-10 14:07:35,679 - INFO - "Module" affiliates] : This class will show affiliates details : 
+[2022-07-10 14:13:25,318 - INFO - "Module" logging_class] : info
+[2022-07-10 14:15:41,302 - INFO - "Module" logging_class] : info
+[2022-07-10 14:17:22,026 - INFO - "Module" logging_class] : info
+[2022-07-10 14:17:22,026 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:17:48,541 - INFO - "Module" logging_class] : info
+[2022-07-10 14:17:48,541 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:18:37,184 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:40,487 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:42,832 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:45,283 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:48,374 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:48,374 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:18:59,140 - INFO - "Module" logging_class] : info
+[2022-07-10 14:18:59,140 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:23:49,836 - INFO - "Module" logging_class] : info
+[2022-07-10 14:23:49,852 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:25:13,287 - INFO - "Module" logging_class] : info
+[2022-07-10 14:25:13,302 - INFO - "Module" course_record] : Course details: 
+[2022-07-10 14:25:13,302 - INFO - "Module" title] : function called
+[2022-07-10 14:25:19,006 - INFO - "Module" title] : Title :  FSDS
+[2022-07-10 14:25:19,006 - INFO - "Module" description] : function called
+[2022-07-10 14:25:32,838 - INFO - "Module" description] : Description :  Its a course about data science
+[2022-07-10 14:25:32,838 - INFO - "Module" price] : function called
+[2022-07-10 14:25:36,368 - INFO - "Module" price] : Price :  17700
+[2022-07-10 14:25:36,368 - INFO - "Module" duration] : function called
+[2022-07-10 14:25:40,385 - INFO - "Module" duration] : Duration :  12 months
+[2022-07-10 14:41:34,240 - INFO - "Module" logging_class] : info
+[2022-07-10 14:41:34,271 - INFO - "Module" intership] : Internship details: 
+[2022-07-10 14:41:34,271 - INFO - "Module" title] : function called
+[2022-07-10 14:41:43,195 - INFO - "Module" title] : Title :  analutics
+[2022-07-10 14:41:43,195 - INFO - "Module" description] : function called
+[2022-07-10 14:41:54,206 - INFO - "Module" description] : Description :  project on analytics
+[2022-07-10 14:41:54,206 - INFO - "Module" type] : function called
+[2022-07-10 14:42:09,367 - INFO - "Module" type] : Type :  insurance industry
+[2022-07-10 14:42:09,367 - INFO - "Module" diffcultylevel] : function called
+[2022-07-10 14:42:09,367 - INFO - "Module" diffcultylevel] : Please select difficulty level as 1 = Easy, 2 = Moderate ,3 = High 
+[2022-07-10 14:42:12,852 - INFO - "Module" diffcultylevel] : Difficulty  : Easy
