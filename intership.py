@@ -16,3 +16,5 @@ objCourses.title()
 objdes.description()
 type.type()
 diffcultylevel.difficultylevel()
+
+lg.info("Comment to check push to github")

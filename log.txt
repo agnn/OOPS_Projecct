@@ -53,3 +53,15 @@
 [2022-07-10 14:42:09,367 - INFO - "Module" diffcultylevel] : function called
 [2022-07-10 14:42:09,367 - INFO - "Module" diffcultylevel] : Please select difficulty level as 1 = Easy, 2 = Moderate ,3 = High 
 [2022-07-10 14:42:12,852 - INFO - "Module" diffcultylevel] : Difficulty  : Easy
+[2022-07-10 18:22:41,648 - INFO - "Module" logging_class] : info
+[2022-07-10 18:22:41,652 - INFO - "Module" intership] : Internship details: 
+[2022-07-10 18:22:41,652 - INFO - "Module" title] : function called
+[2022-07-10 18:22:45,054 - INFO - "Module" title] : Title : 
+[2022-07-10 18:22:45,055 - INFO - "Module" description] : function called
+[2022-07-10 18:22:45,217 - INFO - "Module" description] : Description : 
+[2022-07-10 18:22:45,218 - INFO - "Module" type] : function called
+[2022-07-10 18:22:45,380 - INFO - "Module" type] : Type : 
+[2022-07-10 18:22:45,380 - INFO - "Module" diffcultylevel] : function called
+[2022-07-10 18:22:45,380 - INFO - "Module" diffcultylevel] : Please select difficulty level as 1 = Easy, 2 = Moderate ,3 = High 
+[2022-07-10 18:22:45,520 - ERROR - "Module" diffcultylevel] : invalid literal for int() with base 10: ''
+[2022-07-10 18:22:45,520 - INFO - "Module" intership] : Comment to check push to github
