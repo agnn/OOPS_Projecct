@@ -1,10 +1,8 @@
 # OOPS_Project_09-07-2022
  This repository contains tasks with implementation of OOPS concepts
  
- student_record.py
- course_record.py
- internship.py
+exe_main.py file is to be executed
  
- above 3 files are to be executed. 
- 
- Rest packages,modules and classes are created separately.
+Reference image file attached for better understanding
+
+![img.png](img.png)

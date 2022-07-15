@@ -2,7 +2,7 @@
 from logging_class import lg
 
 def difficultylevel():
-    'Call function to select difficulty level'
+    'Call function to select difficulty level, Returns the difficulty level'
     lg.info("function called")
 
     try:
